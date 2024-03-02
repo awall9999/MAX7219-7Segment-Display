@@ -1,0 +1,19 @@
+G04 DipTrace 2.4.0.2*
+%IN7seg2x4.bottompaste.ger*%
+%MOIN*%
+%ADD50R,0.1102X0.0906*%
+%FSLAX44Y44*%
+G04*
+G70*
+G90*
+G75*
+G01*
+%LNBotPaste*%
+%LPD*%
+D50*
+X9437Y11437D3*
+Y9937D3*
+Y8437D3*
+Y6937D3*
+Y5437D3*
+M02*
